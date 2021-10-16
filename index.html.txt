@@ -1,0 +1,56 @@
+﻿Student
+* Details
+* Education
+* Technical Skills
+* Project
+Details about me
+
+
+Name: VALLURU VENKATA SAI TEJA
+Gender: Male
+Email: vvsaiteja8@gmail.com
+Phone_no:6300997767
+Education
+
+
+
+
+
+
+Education
+	College/Institute
+	Duration
+	%age/CGPA
+	B.TECH,ECE
+	Gudlavalleru Engineering College
+	2017-2021
+	7.31CGPA
+	Intermediate (M.P.C)
+	Sri Chaitanya Junior College
+	2015-2017
+	86%
+	S.S.C
+	Ravindra Bharathi Public  School
+	2015
+	9.0 CGPA
+	
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+* Java
+* C
+* Python
+Project
+
+
+Role: Team member
+Design of Low Power and High Performance NAND Based flip-flops Using Mod-GDI Technique-------The main objective is to implement all the basic flip flops using Mod GDI transistors with voltage and Gate size scaling technique to Reduce power dissipation.The project aims at initially designing of flip flops with an NAND gate by using Mod-GDI technique.In digital circuit design low power and small area are main issues of concern for VLSI designers. Modified - Gate Diffusion Input (Mod-GDI) -a technique of low power digital combinational design. This project presents the Performance comparisons on low power techniques of basic combinational logic functions and to state that the proposed Modified Gate Diffusion Input logic (Mod-GDI) to be more power-efficient than the GDI and CMOS logic design. There are three important factors in Mod-GDI the gate size area, power dissipation and speed of operation
